@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartView">
+        <attr name="chartTextSize" format="integer"/>
+        <attr name="chartTextColor" format="color"/>
+        <attr name="chartCircleColor" format="color"/>
+        <attr name="chartCircleDiameter" format="integer"/>
+        <attr name="chartLineColor" format="color"></attr>
+    </declare-styleable>
+</resources>
